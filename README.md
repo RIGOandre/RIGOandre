@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Rigo <br> </h1>
+<br>
 <h3 align="center">A student and developer from Brazil, Santa-Catarina</h3>
 <br>
 
