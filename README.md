@@ -2,6 +2,7 @@
 <h3 align="center">A student and developer from Brazil, Santa-Catarina</h3>
 <br>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigoandre&label=Profile%20views&color=0e75b6&style=flat" alt="rigoandre" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
